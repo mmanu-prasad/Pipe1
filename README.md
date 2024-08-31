@@ -10,4 +10,4 @@
 
 #### Sample links
 
-[Link Text] (##SAMPLE-TABLE)
+[Link Text](##SAMPLE-TABLE)
