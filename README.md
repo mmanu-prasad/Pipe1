@@ -74,7 +74,13 @@
 
 ## code 
 
-'''python
-import os 
+```python
+# This is a Python code block
+def greet(name):
+    print(f"Hello, {name}!")
 
+def add_numbers(a, b):
+    return a + b
+
+    
 [Link Text](#SAMPLE-TABLE)
