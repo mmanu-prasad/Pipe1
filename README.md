@@ -74,7 +74,7 @@
 
 ## code 
 
-'''
+'''python
 import os 
 
 [Link Text](#SAMPLE-TABLE)
