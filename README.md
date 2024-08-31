@@ -10,4 +10,4 @@
 
 #### Sample links
 
-[Link SAMPLE TABLE] Main Heading
+[Link Text](## SAMPLE TABLE)
